@@ -9,20 +9,25 @@
 
 <div class="navbar">My Prime Video</div>
 
+<!-- Banner -->
+<div class="banner">
+ <img src="images/prime.png">
+</div>
+
 <h2>Trending Movies</h2>
 
 <div class="row">
- <img src="images/1.jpg">
- <img src="images/2.jpg">
- <img src="images/3.jpg">
+ <img src="images/prime.png">
+ <img src="images/prime.png">
+ <img src="images/prime.png">
 </div>
 
 <h2>Recommended</h2>
 
 <div class="row">
- <img src="images/2.jpg">
- <img src="images/3.jpg">
- <img src="images/1.jpg">
+ <img src="images/prime.png">
+ <img src="images/prime.png">
+ <img src="images/prime.png">
 </div>
 
 </body>
